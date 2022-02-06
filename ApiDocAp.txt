@@ -1,0 +1,8 @@
+#API CURRENT DISK
+
+http://18.117.136.155:8082/currentDisk
+
+
+#API globalRst
+
+http://18.117.136.155:8082/globalRst
